@@ -16,7 +16,15 @@ https://examples.javacodegeeks.com/
 
 
 ===========NOT TOP=============
+https://coderlessons.com/
+
 https://javadevblog.com/
+
+https://www.callicoder.com/categories/java/
+
+https://reflectoring.io/
+
+https://javarush.ru/forum
 
 https://stackabuse.com/tag/java
 
