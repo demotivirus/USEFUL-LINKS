@@ -28,5 +28,11 @@ https://reflectoring.io/
 
 https://javarush.ru/forum
 
+https://zetcode.com/all/#java
+
+https://mkyong.com/
+
+https://javabydeveloper.com/
+
 https://stackabuse.com/tag/java
 
